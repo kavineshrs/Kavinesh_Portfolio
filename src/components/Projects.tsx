@@ -13,8 +13,8 @@ const projectsData: Project[] = [
     description: "A modern, full-stack portfolio website featuring an integrated admin dashboard for seamless content and project management. The platform supports secure authentication with Next-Auth, state management via React Context API. The admin dashboard allows easy updates to portfolio content, project listings, and blog posts, all within a responsive and visually engaging UI.",
     image: "/lovable-uploads/Portfolio_Image.jpg",
     tags: ["React", "Next.js", "Tailwind CSS", "JS", "Node.js", "Express.js", "Next-Auth", "Context API", "Mongo"],
-    demoUrl: "https://kalpsenghani1.netlify.app/",
-    githubUrl: "https://github.com/kalpsenghani/portfolio-admin-dashboard"
+    demoUrl: "https://kavinesh-portfolio.vercel.app/",
+    githubUrl: "https://github.com/kavineshrs/Kavinesh_Portfolio"
   },
   {
     id: 2,

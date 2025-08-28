@@ -248,7 +248,7 @@ const ContactForm = () => {
           </div>
           <div className="space-y-2">
             <label className="block text-base font-semibold text-white mb-1">Reason for Contact</label>
-            <div className="flex gap-3">
+            <div className="flex flex-wrap gap-3 justify-center">
               {['Freelance', 'Collaboration', 'General Inquiry'].map(option => (
                 <button
                   type="button"
