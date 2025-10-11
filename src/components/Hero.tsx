@@ -96,7 +96,7 @@ const Hero = () => {
             </Button>
             <div className="flex items-center gap-2">
             {/* View Resume (opens in new tab) */}
-              <a href="https://drive.google.com/file/d/1F86O92aVLyI6BFCo9qPnkSFAie222dyP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1fVA0jigocMKVXbv8p6XLgozOYi-kiEsj/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
                 <Button 
                   variant="outline" 
                   className="py-6 px-8 border-blue-500/30 text-blue-400 hover:bg-blue-900/20 flex items-center gap-2"
@@ -106,7 +106,7 @@ const Hero = () => {
                 </Button>
               </a>
             {/* Download Resume (forces download) */}
-              <a href="https://drive.google.com/uc?export=download&id=1F86O92aVLyI6BFCo9qPnkSFAie222dyP" download="Kavinesh_Resume.pdf">
+              <a href="https://drive.google.com/uc?export=download&id=1fVA0jigocMKVXbv8p6XLgozOYi-kiEsj" download="Kavinesh_Resume.pdf">
                 <Button 
                   variant="outline" 
                   size="icon"
