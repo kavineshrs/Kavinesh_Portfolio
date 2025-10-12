@@ -45,12 +45,11 @@ const projectsData: Project[] = [
   },
   {
     id: 5,
-    title: "Kidney Health Prediction End to End ML Pipeline",
-    description: "An end-to-end ML pipeline for kidney health prediction that automates data preprocessing, model training, and evaluation. Leveraged deep learning and transformers for accurate predictions, with Flask for deployment and MLFlow for experiment tracking and model management.",
-    image: "/lovable-uploads/Kidney.jpg",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Python", "Flask", "MLFlow", "Deep Learning", "Transformers"],
-    demoUrl: "https://kidney-disease-classification.vercel.app/",
-    githubUrl: "https://github.com/kavineshrs/Kidney-Health-Prediction-End-to-End-ML-Pipeline"
+    title: "AI-Powered Smart Waste Management System",
+    description: "An AI-powered waste management platform designed to incentivize and streamline waste reporting and collection. Our goal is to create a community-driven approach to waste management, rewarding users for their eco-friendly actions.",
+    image: "/lovable-uploads/smartwaste.jpg",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Drizzle ORM", "Gemini API", "Web3Auth"],
+    githubUrl: "https://github.com/kavineshrs/Smart-Waste-Management-System"
   },
   {
     id: 6,
@@ -58,7 +57,6 @@ const projectsData: Project[] = [
     description: "A Python, Django-based web application that analyzes and visualizes historical gold price data and predicts gold price for the next 3 and 9 days . It features interactive charts, real-time updates, and predictive analytics to help users make informed investment decisions.",
     image: "/lovable-uploads/Gold.jpg",
     tags: ["Python", "Django", "Machine Learning", "Plotly", "Linear Regression", "Yahoo Finance", "Gold API"],
-    
     githubUrl: "https://github.com/kavineshrs/Gold-Price-Forecaster",
     
   }
