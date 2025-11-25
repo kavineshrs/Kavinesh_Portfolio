@@ -31,7 +31,7 @@ const projectsData: Project[] = [
     description: "An AI-powered Streamlit app that validates job roles by comparing structured XML definitions with roles extracted from unstructured PDFs. Combines Google Gemini, RAG (via Pinecone), and fuzzy string matching for intelligent role comparison and PDF report generation. Automates validation, detects mismatches, and saves hours of manual effort.",
     image: "/lovable-uploads/Role.jpg",
     tags: ["Python", "Gemini API", "Streamlit", "Next.js", "PyMuPDF", "Pinecone", "TheFuzz", "LangChain"],
-    demoUrl: "https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/",
+    //demoUrl: "https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/",
     githubUrl: "https://github.com/kavineshrs/Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool"
   },
   {
