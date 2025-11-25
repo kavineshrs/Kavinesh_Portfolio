@@ -31,7 +31,7 @@ const projectsData: Project[] = [
     description: "An AI-powered Streamlit app that validates job roles by comparing structured XML definitions with roles extracted from unstructured PDFs. Combines Google Gemini, RAG (via Pinecone), and fuzzy string matching for intelligent role comparison and PDF report generation. Automates validation, detects mismatches, and saves hours of manual effort.",
     image: "/lovable-uploads/Role.jpg",
     tags: ["Python", "Gemini API", "Streamlit", "Next.js", "PyMuPDF", "Pinecone", "TheFuzz", "LangChain"],
-    //demoUrl: "https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/",
+    demoUrl: "https://role-validator-xml-to-pdf-job-role-comparison-tool-by-kavinesh.streamlit.app/",
     githubUrl: "https://github.com/kavineshrs/Role-Validator-XML-to-PDF-Job-Role-Comparison-Tool"
   },
   {
@@ -40,7 +40,7 @@ const projectsData: Project[] = [
     description: "An AI-powered Streamlit app that converts natural language questions into SQL queries. It supports live database querying, result display, and uses LLMs for intelligent SQL generation—making data access seamless for non-technical users.",
     image: "/lovable-uploads/NLP-SQL.jpg",
     tags: ["Streamlit", "Python", "SQLite", "NLP", "Large Language Model", "Open AI API"],
-    demoUrl: "https://intelligent-sql-assistant-by-kavinesh.streamlit.app/", // Replace with actual live link if available
+    //demoUrl: "https://intelligent-sql-assistant-by-kavinesh.streamlit.app/", // Replace with actual live link if available
     githubUrl: "https://github.com/kavineshrs/Intelligent-SQL-Assistant-Natural-Language-to-Database-Query-System"
   },
   {
