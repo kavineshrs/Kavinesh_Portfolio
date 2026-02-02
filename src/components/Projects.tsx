@@ -40,7 +40,7 @@ const projectsData: Project[] = [
     description: "An AI-powered Streamlit app that converts natural language questions into SQL queries. It supports live database querying, result display, and uses LLMs for intelligent SQL generation—making data access seamless for non-technical users.",
     image: "/lovable-uploads/NLP-SQL.jpg",
     tags: ["Streamlit", "Python", "SQLite", "NLP", "Large Language Model", "Open AI API"],
-    demoUrl: "https://intelligent-sql-assistant-natural-language-to-database-query.streamlit.app/", // Replace with actual live link if available
+    //demoUrl: "https://intelligent-sql-assistant-natural-language-to-database-query.streamlit.app/", // Replace with actual live link if available
     githubUrl: "https://github.com/kavineshrs/Intelligent-SQL-Assistant-Natural-Language-to-Database-Query-System"
   },
   {
